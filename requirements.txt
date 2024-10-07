@@ -1,0 +1,8 @@
+openai-whisper
+tensorflow
+pydub
+librosa
+numpy
+pandas
+nltk
+transformers
