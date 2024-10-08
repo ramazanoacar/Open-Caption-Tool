@@ -2,7 +2,6 @@ from transcription import transcribe_audio
 from sed import load_yamnet_model, detect_sound_events
 from merge import merge_events
 from generate_files import generate_srt
-##test commit
 
 def process_audio(audio_path, output_path):
     # Transcribe dialogue
